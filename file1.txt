@@ -5,4 +5,8 @@ Cool-stuff change - in cool-stuff branch
 Rad change - in RAD banch
 Check in master branch
 
+More changes #2
+
+Feature 123 - Added
+Feature 123 - Bug Fix
 Feature-123 -2
